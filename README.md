@@ -1,5 +1,10 @@
 # AndroidViewMode_BindService_Demo
 Demo project to communicate with a bind service using ViewModel
+### How to clone :
+ git clone https://github.com/iampkh/AndroidViewMode_BindService_Demo
+
+ GoTo AndroidStudio -> File --> Open --> Select this folder.
+ 
 
 ## Purpose : How to use Viewmode,LiveData for a service communication (Messenger)
 
